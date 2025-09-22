@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "picobricks": "github:Robotistan/picobricks-for-microbit-ext#v0.1.81-beta"
     },
     "files": [
         "main.blocks",
